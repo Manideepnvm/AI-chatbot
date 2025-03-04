@@ -28,9 +28,6 @@ pip install -r requirements.txt
 ```
 
 3. Create a `.env` file in the root directory and add your Mistral AI API key:
-```
-MISTRAL_API_KEY=your_mistral_api_key_here
-```
 
 ## Running the Application
 
